@@ -41,8 +41,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepchokshi&show_icons=true&theme=react&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepchokshi&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deep-chokshi&show_icons=true&theme=react&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep-chokshi&layout=compact&theme=react" />
 </p>
 
 ---

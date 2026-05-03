@@ -51,7 +51,29 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📂 Archive — Previous Work
+
+> 🗂️ I recently moved to this GitHub account. **My earlier projects (68+ public repos across GenAI, RAG, agentic apps, and more) live on my previous profile** — feel free to browse them there:
+>
+> 👉 **[github.com/deepchokshi](https://github.com/deepchokshi)**
+
+<p align="center">
+  <a href="https://github.com/deepchokshi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepchokshi&theme=react" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/deepchokshi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepchokshi&theme=react" />
+  </a>
+  <a href="https://github.com/deepchokshi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepchokshi&theme=react" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats — Current Account
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deep-chokshi&theme=react" />
 </p>

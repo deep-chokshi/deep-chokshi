@@ -55,3 +55,5 @@
 
 > 🧭 “Great AI systems don’t just respond — they act, adapt, and evolve.”
 
+
+<!-- profile readme -->

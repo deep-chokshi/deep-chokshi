@@ -53,8 +53,14 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deep-chokshi&show_icons=true&theme=react&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep-chokshi&layout=compact&theme=react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deep-chokshi&theme=react" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deep-chokshi&theme=react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deep-chokshi&theme=react" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=deep-chokshi&theme=react" />
 </p>
 
 ---
